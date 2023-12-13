@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "name": "La palette du goût",
+      "adress": "1 Rue du Languedoc",
+      "img": "LaPaletteDuGout"
+    },
+    {
+        "id": "2",
+        "name": "Le délice des sens",
+        "adress": "30 Avenue d'Ile de France",
+        "img": "LeDeliceDesSens"
+    },
+    {
+        "id": "3",
+        "name": "La note enchantée",
+        "adress": "4 Faubourg Rivotte",
+        "img": "LaNoteEnchantee"
+    },
+    {
+        "id": "4",
+        "name": "À la française",
+        "adress": "3 Rue Durer",
+        "img": "ALaFrancaise"
+    }
+]
